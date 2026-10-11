@@ -1,0 +1,9 @@
+main/blink_example_main (Copy).c.bak
+sdkconfig.defaults.esp32c5
+sdkconfig.defaults.esp32c6
+sdkconfig.defaults.esp32c61
+sdkconfig.defaults.esp32h2
+sdkconfig.defaults.esp32p4
+sdkconfig.defaults.esp32s2
+sdkconfig.defaults.esp32s3
+pytest_blink.py
